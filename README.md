@@ -1,14 +1,16 @@
-# 🎬 Lunaro CLI - YouTube Video Downloader (PowerShell)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lunaroYT/youtube-free/main/screenshot1.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/lunaroYT/youtube-free/main/screenshot2.png" width="48%" />
+</p>
+# 🎬 Lunaro CLI - apps  Downloader (PowerShell)
 
-![Logo](https://raw.githubusercontent.com/lunaroYT/youtube-free/main/logo.png)
-
-A fast and lightweight PowerShell script that allows you to download YouTube videos directly to your desktop — no installation required.
+A fast and lightweight PowerShell script that allows you to download pc apps directly to your desktop.
 
 ---
 
 ## ⚙️ Features
-- 🧠 Simple and automatic downloading
-- 🚀 Fast performance using direct APIs
+
+- 🚀 Fast performance
 - 💻 Works on any Windows PowerShell environment
 
 ---
