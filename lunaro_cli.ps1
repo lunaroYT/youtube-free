@@ -525,15 +525,18 @@ function Show-Menu {
     Clear-Host
     Play-MenuMusic
     Write-Host ""
-    Write-Host "============================================================" -ForegroundColor Green
-    Write-Host "                    MAIN MENU" -ForegroundColor Yellow
-    Write-Host "============================================================" -ForegroundColor Green
     Write-Host ""
-    Write-Host "[1] Download popular applications" -ForegroundColor Green
-    Write-Host "[2] Search applications" -ForegroundColor Green
-    Write-Host "[3] View downloaded files" -ForegroundColor Green
-    Write-Host "[4] Clear downloads folder" -ForegroundColor Green
-    Write-Host "[5] Exit" -ForegroundColor Green
+    Write-Host "           ===================================================" -ForegroundColor Green
+    Write-Host "           ==================== MAIN MENU ==================" -ForegroundColor Yellow
+    Write-Host "           ===================================================" -ForegroundColor Green
+    Write-Host ""
+    Write-Host ""
+    Write-Host "                  [1] Download Popular Applications" -ForegroundColor White
+    Write-Host "                  [2] Search Applications" -ForegroundColor White
+    Write-Host "                  [3] View Downloaded Files" -ForegroundColor White
+    Write-Host "                  [4] Clear Downloads Folder" -ForegroundColor White
+    Write-Host "                  [5] Exit" -ForegroundColor White
+    Write-Host ""
     Write-Host ""
 }
 
